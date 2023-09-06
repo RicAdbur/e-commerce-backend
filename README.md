@@ -2,7 +2,7 @@
 
 This is an example back end for an e-commerce site.  It's an Express API that uses the Sequelize node package to connect to an SQL database.
 
->[**Walk-through Video**]()
+>[**Walk-through Video**](https://drive.google.com/file/d/1NlloPcRYJ8wwCn2OSif5fe9XWaq5Gti5/view)
 
 ---
 ## **Technologies used:** 
